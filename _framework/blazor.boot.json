@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TomAndJerry",
   "resources": {
-    "hash": "sha256-7PsKpEcE/p9HyX8X6l9OUi9R2lRavYLoattjr7VfXSo=",
+    "hash": "sha256-hopP9yLOgFPSQLlmeJvCM2tqsTGVTdgY+0Wv70B8ZHk=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.suuomc2hr0.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -33,7 +33,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-LFEySM8Y7K8Po/tGNqDWegNpFEJRYBzDEHU1fNg3sD4=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Kr13V+6zGL8rPvFmuBAsaEJfoMlR4Q8keJHKaVGVbGA=",
-      "MudBlazor.wasm": "sha256-VYuaqWRQzNvD2qAylt4ZWasi7u9e+uGa5SS0HFD2cqg=",
+      "MudBlazor.wasm": "sha256-h+1J33IA9+iqog5yicptLrdY/6WyhMGfVclkBrP6dqE=",
       "System.Collections.Concurrent.wasm": "sha256-XPBVuZnIeu6bQGp+CB9VN97FdUOEfyUcEgac9qQNrvw=",
       "System.Collections.Immutable.wasm": "sha256-r6z67aiDIRj8kEDFLk9DddOzoq+/w+mEDHiJdK5XM1o=",
       "System.Collections.wasm": "sha256-K2VJ0dR9XUJiQlspkiWtxte8DBUDYr4aknrfBAXhvq4=",
@@ -46,7 +46,7 @@
       "System.Net.Http.wasm": "sha256-TpUq5gPs/5AGErH4KCiRD48/2khc2eBEhwtaJR4EEAM=",
       "System.Net.Primitives.wasm": "sha256-Ba0i13FLK+wmbzRggicu3e9l/6EAomNd1eE0qYoiz9c=",
       "System.ObjectModel.wasm": "sha256-6wqjMouORvIxFasP03ANBjNIBgDZM2jJtIIQmyd21cQ=",
-      "System.Private.CoreLib.wasm": "sha256-MVeMeD/pJpXKCSIJR+tug5bz6mNoigFUpMUzxK979Dk=",
+      "System.Private.CoreLib.wasm": "sha256-KB26L+GkfyxrIWUrv1GaD9oRAFuqoQ7oR99ADH+Y5Og=",
       "System.Private.Uri.wasm": "sha256-1zDH1VoURes2PqRwCzEIHrr5OJ6PR26VbN4dgdWXA9g=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-/v+08uFNaDJLlczb8sKxTZSW3v+FHdsHNVN59bCo1C0=",
       "System.Runtime.wasm": "sha256-A/Y3WnlqZEzus06OXEe5MiFpBALZkC150UAKZx49K6M=",
@@ -54,7 +54,7 @@
       "System.Text.Json.wasm": "sha256-z+hrd+eaFs0HB2L7dLeJFdE0Ptm1umfjcSrstO5z34k=",
       "System.Text.RegularExpressions.wasm": "sha256-Si/Oe0wuIIpucJXCZtZ30tYFqKXZo25Rg7DUQv+ug4k=",
       "System.Threading.wasm": "sha256-Cyi1qsya3TLTHXuUGWK4IqeQE/iqh7BSNA5LF7SmPHM=",
-      "TomAndJerry.wasm": "sha256-xyV5TvMieyYJyKfwOkGlo1WTQG0Pb9F9FyTaBh/vFTY="
+      "TomAndJerry.wasm": "sha256-WL2/jSUY1guUEcuHxlRmXd3yFjHGD1b+umm9Aghp9Jg="
     }
   },
   "cacheBootResources": true,
